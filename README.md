@@ -77,3 +77,36 @@ Add mobile-first design variations
 
 💡 Conclusion
 This project showcases a complete UI/UX design of a coffee shop website created in Figma. It highlights strong design fundamentals such as layout structuring, visual hierarchy, and user-centered design.
+
+
+
+
+
+
+
+
+🏋️ Fitness App UI
+This project presents a modern and user-centric Fitness App UI designed using Figma. The primary goal of this design was to create an intuitive, visually appealing, and motivating interface that enhances the overall user experience for individuals pursuing their fitness journey.
+
+The UI focuses on clean layout structuring, effective use of spacing, and a consistent visual hierarchy to ensure that users can easily navigate through different sections of the app. Special attention was given to typography, color contrast, and component alignment to maintain clarity and readability across all screens.
+
+The design includes key screens such as the home dashboard, workout tracking interface, and progress overview. Each screen is crafted to deliver essential information in a minimal yet engaging manner, reducing cognitive load while keeping users motivated and focused.
+
+A strong emphasis was placed on usability and accessibility. Interactive elements such as buttons and navigation components are designed to be easily identifiable and responsive. The layout supports a smooth user flow, allowing users to move seamlessly between features like selecting workouts, tracking activities, and viewing progress.
+
+Additionally, the UI incorporates modern design trends such as soft color palettes, structured card layouts, and balanced whitespace to create a professional and aesthetically pleasing look. The design aims to not only serve functional purposes but also inspire users to stay consistent with their fitness goals.
+
+This project reflects my understanding of UI/UX principles, including user-centered design, visual consistency, and effective information architecture. It also demonstrates my ability to translate design ideas into structured and practical interfaces suitable for real-world applications.This project presents a modern and user-centric Fitness App UI designed using Figma. The primary goal of this design was to create an intuitive, visually appealing, and motivating interface that enhances the overall user experience for individuals pursuing their fitness journey.
+
+The UI focuses on clean layout structuring, effective use of spacing, and a consistent visual hierarchy to ensure that users can easily navigate through different sections of the app. Special attention was given to typography, color contrast, and component alignment to maintain clarity and readability across all screens.
+
+The design includes key screens such as the home dashboard, workout tracking interface, and progress overview. Each screen is crafted to deliver essential information in a minimal yet engaging manner, reducing cognitive load while keeping users motivated and focused.
+
+A strong emphasis was placed on usability and accessibility. Interactive elements such as buttons and navigation components are designed to be easily identifiable and responsive. The layout supports a smooth user flow, allowing users to move seamlessly between features like selecting workouts, tracking activities, and viewing progress.
+
+Additionally, the UI incorporates modern design trends such as soft color palettes, structured card layouts, and balanced whitespace to create a professional and aesthetically pleasing look. The design aims to not only serve functional purposes but also inspire users to stay consistent with their fitness goals.
+
+This project reflects my understanding of UI/UX principles, including user-centered design, visual consistency, and effective information architecture. It also demonstrates my ability to translate design ideas into structured and practical interfaces suitable for real-world applications.
+
+
+Figma link:https://www.figma.com/proto/43LXyHxy5RGul0ef7mzNx6/Fitness-App-UI?node-id=0-1&t=QbAKJCMUl7xvO583-1
